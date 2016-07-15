@@ -58,7 +58,8 @@
 /*---------------Slider-1-------------*/
 .slide .slide-1
 {
-    color: #fff;
+    color: #ff00bf;
+    background:#ffe6e6 ;
     font-size: 330%;
     font-weight: 700;
     font-family: ' arial', sans-serif;
@@ -77,8 +78,8 @@
 
 /*-------Slider-2---------*/
 .slide .slide-2{
-    background: #fff;
-    color: #000;
+    background: #e6f2ff;
+    color: #000099;
     padding: 0.5% 0.4%;
     font-size: 360%;
     font-weight: 600;
@@ -87,8 +88,8 @@
     box-sizing:content-box;
 }
 .slider .slide-2a{
-    background: #000;
-    color: #fff;
+    background: #ddccff;
+    color: #4c00e6;
     padding: 0.5% 0.7%;
     font-size: 260%;
     font-weight: 600;
